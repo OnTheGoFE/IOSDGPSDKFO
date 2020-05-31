@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'IOSDGPSDKFO'
-  s.version          = '0.1.0'
+  s.version          = '1.27.0.100'
   s.summary          = 'IOS SDK DIGIPRO Formatos Electrónicos (Facerecognition Object)'
   s.description      = <<-DESC
 El Facerecognition object framework es utilizado para la generación de formatos electrónicos.
